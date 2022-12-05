@@ -1,0 +1,25 @@
+
+.all{
+     margin: 50px 100px;
+     padding: 50px 150px;
+     border-radius: 20px;
+     background-color: #DAEEFF;
+ }
+ .all h2{
+      color: #68BEFA;
+      font-size: 25px;
+      font-family: Arial, Helvetica, sans-serif;}
+ label{
+      color: #68BEFA;
+      font-size: 20px;
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+ }
+ input{
+      border-radius: 5px;
+      border-color: #68BEFA;
+ }
+ .button{
+      color: aliceblue;
+      background-color: #6CBFFF;
+      padding: 10px 15px;
+ }
